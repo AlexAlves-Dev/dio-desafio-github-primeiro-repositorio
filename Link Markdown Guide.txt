@@ -1,3 +1,3 @@
-Este é o link para o guia de Markdown com a síntaxe básica.
+Este é o link para o guia de Markdown com a sintaxe básica.
 
 https://www.markdownguide.org/basic-syntax/
